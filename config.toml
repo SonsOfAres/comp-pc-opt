@@ -14,5 +14,68 @@ build_search_index = false
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
 
+################################################################################
+# Theme 
+################################################################################
+
 [extra]
-# Put all your custom variables here
+
+# section_order = ["hero"]
+
+default_thumbnail = "images/ARES-on-stone-texture-1080.png"
+
+nav = [
+#    { name = "Documents", url = "/introduction", type = "url", icon = "fa-solid fa-book" },
+    { name = "YouTube", url = "https://youtube.com/@Min--Min", type = "url", icon = "fa-brands fa-youtube" },
+    { name = "Discord", url = "https://discord.gg/join-ares", type = "url", icon = "fa-brands fa-discord" },
+    { name = "GitHub", url = "https://github.com/sonsOfAres/", type = "url", icon = "fa-brands fa-github" },
+    { name = "Donate", url = "https://streamelements.com/min--min/tip", type = "url", icon = "fa-solid fa-circle-dollar-to-slot"},
+#    { name = "Links", type = "dropdown", members = [
+#        { name = "Discord", url = "https://discord.gg/join-ares", type = "url" },
+#    ] },
+]
+
+# footer_html = "Powered by <a href='https://www.getzola.org'>Zola</a>"
+
+[extra.logo]
+text = "Ares"                                # Text when no logo image
+image_path = "images/ares-slingblade.png"    # Default logo image path
+image_padding = "5px"                        # Optional padding
+dark_image_path = "images/ares-slingblade.png"   # Logo for dark theme (optional)
+light_image_path = "images/ares-slingblade.png" # Logo for light theme (optional)
+
+[extra.favicon]
+base_path = "/icons/"                              # Base path for all favicon files (default: /icons/)
+favicon_96x96 = "/icons/ares-slingblade.png"       # Override path for 96x96 PNG favicon
+favicon_svg = "/icons/favicon.svg"                 # Override path for SVG favicon
+favicon_ico = "/icons/favicon.ico"                 # Override path for ICO favicon
+apple_touch_icon = "/icons/apple-touch-icon.png"   # Override path for Apple touch icon
+site_webmanifest = "/icons/site.webmanifest"       # Override path for site manifest
+
+[extra.theme]
+colorset = "dark"           # Default color scheme (dark/light)
+brightness = "darker"       # Common brightness: "darker", "normal", "lighter"
+# dark_brightness = "darker"  # Override brightness for dark theme (optional)
+# light_brightness = "normal" # Override brightness for light theme (optional)
+disable_toggle = false      # Hide theme toggle button
+
+[extra.font]
+enabled = false  # Set to true to use custom font
+name = ""        # Name of the custom font (e.g., "Roboto", "Noto Sans KR")
+path = ""        # Local path (e.g., "fonts/custom.woff") or remote URL
+
+[extra.sidebar]
+expand_depth = 1         # Sidebar expansion depth (max 5)
+disable_root_hide = false # Prevent hiding sidebar on root page
+
+[extra.share]
+copy_url = true # Copy URL button
+x = false         # Share on X button
+
+[extra.comments]
+enabled = false  # Enable comments
+system = ""  # Comment system (e.g., "giscus")
+repo = ""  # Repository for comments (e.g., "hahwul/goyo")
+repo_id = ""  # Repository ID (e.g., "R_kgDOXXXXXXX")
+category = ""  # Comment category (e.g., "General")
+category_id = ""  # Category ID (e.g., "DIC_kwDOXXXXXXXXXX")
