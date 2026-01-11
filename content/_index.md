@@ -14,7 +14,7 @@ section_order = ["hero", "features", "trust", "easy_command", "showcase", "socia
 title = "Competitive PC Optimization"
 badge = "From Silicon to the Pip"
 description = "Compiled from many pilots, operators, and one galactic-conquest obsessed AI who absolutely refuses to let friends play at 30 FPS."
-image = "/images/ARES-on-stone-texture-1080.png"
+image = "images/ARES-on-stone-texture-1080.png"
 gradient_opacity = 70
 image_opacity = 30
 cta_buttons = [
@@ -43,12 +43,12 @@ icon = "fa-solid fa-jet-fighter-up"
 [extra.trust_section]
 title = "Tech Stack"
 logos = [
-    { src = "/resources/Windows-icon-vector-13.svg", alt = "Windows" },
-    { src = "/resources/Nvidia-Geforce-GTX-logo-vector-01.svg", alt = "Nvidia GeForce GTX" },
-    { src = "/resources/AMD-logo-vector-01.svg", alt = "AMD" },
-    { src = "/resources/AMD-Radeon-Graphics-logo-vector-01.svg", alt = "AMD Radeon" },
-    { src = "/resources/Intel-icon-vector-01.svg", alt = "Intel" },
-    { src = "/resources/Vulkan_API_logo.svg", alt = "Vulkan" },
+    { src = "resources/Windows-icon-vector-13.svg", alt = "Windows" },
+    { src = "resources/Nvidia-Geforce-GTX-logo-vector-01.svg", alt = "Nvidia GeForce GTX" },
+    { src = "resources/AMD-logo-vector-01.svg", alt = "AMD" },
+    { src = "resources/AMD-Radeon-Graphics-logo-vector-01.svg", alt = "AMD Radeon" },
+    { src = "resources/Intel-icon-vector-01.svg", alt = "Intel" },
+    { src = "resources/Vulkan_API_logo.svg", alt = "Vulkan" },
 ]
 
 #[extra.social_proof_section]

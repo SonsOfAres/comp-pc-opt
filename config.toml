@@ -45,12 +45,12 @@ dark_image_path = "images/ares-slingblade.png"   # Logo for dark theme (optional
 light_image_path = "images/ares-slingblade.png" # Logo for light theme (optional)
 
 [extra.favicon]
-base_path = "/icons/"                              # Base path for all favicon files (default: /icons/)
-favicon_96x96 = "/icons/ares-slingblade.png"       # Override path for 96x96 PNG favicon
-favicon_svg = "/icons/favicon.svg"                 # Override path for SVG favicon
-favicon_ico = "/icons/favicon.ico"                 # Override path for ICO favicon
-apple_touch_icon = "/icons/apple-touch-icon.png"   # Override path for Apple touch icon
-site_webmanifest = "/icons/site.webmanifest"       # Override path for site manifest
+base_path = "icons/"                              # Base path for all favicon files (default: /icons/)
+favicon_96x96 = "icons/ares-slingblade.png"       # Override path for 96x96 PNG favicon
+favicon_svg = "icons/favicon.svg"                 # Override path for SVG favicon
+favicon_ico = "icons/favicon.ico"                 # Override path for ICO favicon
+apple_touch_icon = "icons/apple-touch-icon.png"   # Override path for Apple touch icon
+site_webmanifest = "icons/site.webmanifest"       # Override path for site manifest
 
 [extra.theme]
 colorset = "dark"           # Default color scheme (dark/light)
