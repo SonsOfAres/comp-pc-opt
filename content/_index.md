@@ -18,7 +18,7 @@ image = "images/ARES-on-stone-texture-1080.png"
 gradient_opacity = 70
 image_opacity = 30
 cta_buttons = [
-    { text = "Download Guide", url = "/introduction", style = "primary" },
+    { text = "Download Guide", url = "https://github.com/sonsofares/comp-pc-opt/releases/latest/download/SC-PC-Performance-Guide_v0.0.1.zip", style = "primary" },
 ]
 
 [extra.features_section]
