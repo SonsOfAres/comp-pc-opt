@@ -20,8 +20,6 @@ highlight_code = true
 
 [extra]
 
-# section_order = ["hero"]
-
 default_thumbnail = "images/ARES-on-stone-texture-1080.png"
 
 nav = [
@@ -60,9 +58,9 @@ brightness = "darker"       # Common brightness: "darker", "normal", "lighter"
 disable_toggle = false      # Hide theme toggle button
 
 [extra.font]
-enabled = false  # Set to true to use custom font
-name = ""        # Name of the custom font (e.g., "Roboto", "Noto Sans KR")
-path = ""        # Local path (e.g., "fonts/custom.woff") or remote URL
+enabled = true # Set to true to use custom font
+name = "Font Awesome Brands Woff2"        # Name of the custom font (e.g., "Roboto", "Noto Sans KR")
+path = "fonts/fa-brands-400.woff2"        # Local path (e.g., "fonts/custom.woff") or remote URL
 
 [extra.sidebar]
 expand_depth = 1         # Sidebar expansion depth (max 5)
