@@ -22,7 +22,7 @@ highlight_code = true
 
 [extra]
 
-default_thumbnail = "images/ARES-on-stone-texture-1080.png"
+default_thumbnail = "images/SC-PC-Optimization_ARES-on-stone-texture-1080.png"
 
 nav = [
 #    { name = "Documents", url = "/introduction", type = "url", icon = "fa-solid fa-book" },
