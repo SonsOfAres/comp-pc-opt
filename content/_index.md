@@ -65,5 +65,5 @@ description = """
 Whether you want structured training or just time in the cockpit with people who care about getting better, you’re welcome on the line 🚀✈️
 Hop in, ask questions, and train the way competitive Star Citizen is actually played.
 """
-button = { text = "Ares Discord", url = "discord.gg/join-ares" }
+button = { text = "Ares Discord", url = "https://discord.gg/join-ares" }
 +++
