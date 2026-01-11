@@ -1,7 +1,7 @@
 theme = "goyo"
 
 # The URL the site will be built for
-base_url = "/"
+base_url = "https://sonsofares.github.io/comp-pc-opt/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
