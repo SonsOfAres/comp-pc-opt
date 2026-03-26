@@ -1,6 +1,6 @@
 +++
 title = "Settings"
-description = "In game settings for Star Citizen"
+description = "Optimal in game settings for Star Citizen for PvP."
 weight = 2
 sort_by = "weight"
 
