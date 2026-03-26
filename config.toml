@@ -35,7 +35,7 @@ nav = [
 #    ] },
 ]
 
-# footer_html = "Powered by <a href='https://www.getzola.org'>Zola</a>"
+# footer_html = "Powered by <a href='https://discord.gg/join-ares'>Sons of Ares</a>"
 
 [extra.logo]
 text = "Ares"                                # Text when no logo image
