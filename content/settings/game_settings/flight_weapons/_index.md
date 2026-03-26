@@ -1,6 +1,6 @@
 +++
 title = "Flight - Weapons"
-description = "Optimal settings for you HUD"
+description = "Optimal settings for your ship weapons."
 weight = 4
 sort_by = "weight"
 [extra]

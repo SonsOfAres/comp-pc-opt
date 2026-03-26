@@ -1,6 +1,6 @@
 +++
 title = "VJoy"
-description = "Optimal settings for you HUD"
+description = "Optimal settings for your VJoy."
 weight = 7
 sort_by = "weight"
 [extra]

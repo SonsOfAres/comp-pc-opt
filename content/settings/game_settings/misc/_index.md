@@ -1,6 +1,6 @@
 +++
 title = "Misc."
-description = "Optimal settings for you HUD"
+description = "Optimial miscellaneous settings."
 weight = 10
 sort_by = "weight"
 [extra]

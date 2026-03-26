@@ -1,6 +1,6 @@
 +++
 title = "Visual Stability"
-description = "Optimal settings for visual stability"
+description = "Optimal settings for visual stability."
 weight = 6
 sort_by = "weight"
 [extra]

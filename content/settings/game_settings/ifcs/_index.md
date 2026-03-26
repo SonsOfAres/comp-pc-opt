@@ -1,6 +1,6 @@
 +++
 title = "IFCS Settings"
-description = "Default settings for IFCS"
+description = "Best IFCS settings for high performance flight."
 weight = 1
 sort_by = "weight"
 [extra]

@@ -1,6 +1,6 @@
 +++
 title = "Flight - Targeting"
-description = "Optimal settings for you HUD"
+description = "Optimal settings for flight targeting."
 weight = 5
 sort_by = "weight"
 [extra]
